@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/ganesh/IdeaProjects/APItesting/src/test/java/org/example/ex1_01ResAssure_HellowWorld/helloWorld.java"><classes><class name="org.example.ex1_01ResAssure_HellowWorld.helloWorld"><methods><include name="test_Hellow"/><include name="test_2"/></methods></class></classes></test></suite>
