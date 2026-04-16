@@ -14,6 +14,7 @@ public class ex2p1 {
     @Test
     public void test1(){
 //        RequestSpecification r;
+
 //        Response response;
 //        ValidatableResponse vr;
         String payload="{\n" +
@@ -33,7 +34,12 @@ public class ex2p1 {
 
         //System.out.println("the token retrived from api key is "+ans);
         System.out.println(ans);
+        String[] ss=ans.split(":");
+        String[] s1=ss[1].split("}");
 
+
+
+        System.out.println(s1[0]);
 
 
 
